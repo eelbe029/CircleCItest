@@ -4,7 +4,7 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="mgarzon.createbest.productcatalog.MainActivity">
+    tools:context="com.example.lab8.MainActivity">
 
     <EditText
         android:id="@+id/editTextName"
