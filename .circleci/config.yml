@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/lab8
     docker:
-      - image: circleci/android:2023121
+      - image: android-default
     environment:
       JVM_OPTS: -Xmx3200m
     steps:
